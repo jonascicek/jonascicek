@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @jonascicek
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech, music, cars
 - 🌱 I’m currently learning cloud and webdevelopment
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/jonas-noah-cicek-3b80a4321/)
+- ⚡ Fun fact: Always in a good mood
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jonascicek&theme=dark)](https://git.io/streak-stats)
 <!---
